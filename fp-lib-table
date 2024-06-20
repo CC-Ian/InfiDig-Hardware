@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LED_Filament")(type "KiCad")(uri "${KIPRJMOD}/LED_Filament.pretty")(options "")(descr ""))
+  (lib (name "Connector_JST_RightAngle")(type "KiCad")(uri "${KIPRJMOD}/Connector_JST_RightAngle.pretty")(options "")(descr ""))
+)
